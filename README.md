@@ -11,6 +11,14 @@ Gathering links to the Libraries organizational structure at BTAA universities
 
 ## Penn State
 
+## Purdue
+
+The Purdue main website lists "Inclusion" as a top-level header right up there with "Academics", "Admissions", and "Athletics".  Sad to see Rutgers lagging behind Purdue in this area.
+
+[Directory](https://www.lib.purdue.edu/directory)
+
+Purdue lists Librarians by their professorial rank, without area-specific titles.  So classification is by their liaison/expertise identified in their profiles.  Purdue is not comparable to Rutgers for many reasons.
+
 ## Rutgers
 
 For equivalence to "view from outside" see:
