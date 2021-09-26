@@ -21,6 +21,20 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 [Diversity](https://www.library.illinois.edu/geninfo/diversity/)
 
+## [Indiana]
+
+[Data Services](https://libraries.indiana.edu/data-services)
+
+[Scholars' Commons](https://libraries.indiana.edu/scholars-commons)
+
+[Strategic Plan](http://libraries.indiana.edu/strategicplan)
+
+[Staff Directory](https://libraries.indiana.edu/staff)
+
+[Subject Specialists](https://libraries.indiana.edu/specialists)
+
+[Diversity](https://libraries.indiana.edu/libraries-diversity-resources)
+
 ## [Iowa](https://www.lib.uiowa.edu)
 
 [Research Data](https://www.lib.uiowa.edu/data/)
@@ -31,24 +45,47 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 [Subject Specialists](https://www.lib.uiowa.edu/people/find-your-librarian/)
 
-
 [Diversity](https://www.lib.uiowa.edu/about/diversity-equity-inclusion/)
 
+## [Maryland](https://www.lib.umd.edu)
+
+[Research Commons](https://www.lib.umd.edu/rc) - includes data services
+
+[Strategy Map](https://www.lib.umd.edu/about/deans-office/strategy-map)
+
+[Org Chart](https://www.lib.umd.edu/binaries/content/assets/public/about/libraries-org-chart_admin_aug2021.pdf)
+
+[Directory](https://www.lib.umd.edu/directory)
+
+[Subject Specialists](https://www.lib.umd.edu/directory/specialists/librarian)
+
+[Diversity](https://www.lib.umd.edu/about/diversity/home)
+
 ## [Michigan]
-[Research Data]
-[Strategic Plan]
-[Org Chart]
-[Directory]
-[Subject Specialists]
-[Diversity]()
+
+[Data Services](https://lib.umich.edu/research-and-scholarship/data-services)
+
+[Deep Blue Data](https://deepblue.lib.umich.edu/data)
+
+[Strategic Directions and Objectives](https://lib.umich.edu/about-us/about-library/strategic-directions-and-objectives)
+
+[Org Charts](https://lib.umich.edu/about-us/our-divisions-and-departments) -- can be found under each division here
+
+[Directory](https://lib.umich.edu/about-us/staff-directory)
+
+[Subject Specialists](https://lib.umich.edu/research-and-scholarship/help-research/find-specialist)
+
+[Diversity](https://lib.umich.edu/about-us/about-library/diversity-equity-inclusion-and-accessibility)
 
 ## Michigan State
-[Research Data]
-[Strategic Plan]
-[Org Chart]
-[Directory]
-[Subject Specialists]
-[Diversity]()
+
+[Research Data Management](https://lib.msu.edu/rdmg/)
+[Digital Scholarship Lab](https://lib.msu.edu/dslab/)
+[Strategic Plan](https://lib.msu.edu/strategic-plan)
+[Org Chart](https://lib.msu.edu/orgchart/)
+[Directory](https://lib.msu.edu/contact/libstaff)
+[Subject Specialists](https://lib.msu.edu/contact/subjectlibrarian/)
+[Diversity Advisory Committee](https://lib.msu.edu/about/diversity-committee/) -- committee exists, but no public-facing statement on site
 
 ## Minnesota
 [Research Data]
