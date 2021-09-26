@@ -77,7 +77,7 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 * [Diversity](https://lib.umich.edu/about-us/about-library/diversity-equity-inclusion-and-accessibility)
 
-## Michigan State
+## [Michigan State](https://lib.msu.edu)
 
 [Research Data Management](https://lib.msu.edu/rdmg/)
 
