@@ -94,7 +94,8 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 [Diversity Advisory Committee](https://lib.msu.edu/about/diversity-committee/) -- committee exists, but no public-facing statement on site
 
 ## Minnesota
-[Research Data]
+[Research Data]/
+[DRUM]
 [Strategic Plan]
 [Org Chart]
 [Directory]
