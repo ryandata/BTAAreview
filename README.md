@@ -21,7 +21,7 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 * [Diversity](https://www.library.illinois.edu/geninfo/diversity/)
 
-## [Indiana]
+## [Indiana](https://libraries.indiana.edu)
 
 * [Data Services](https://libraries.indiana.edu/data-services)
 
@@ -61,7 +61,7 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 * [Diversity](https://www.lib.umd.edu/about/diversity/home)
 
-## [Michigan]
+## [Michigan](https://lib.umich.edu)
 
 * [Data Services](https://lib.umich.edu/research-and-scholarship/data-services)
 
