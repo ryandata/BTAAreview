@@ -3,83 +3,83 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 ## [Illinois](https://www.library.illinois.edu)
 
-[Research Data Services](https://www.library.illinois.edu/rds/)
+* [Research Data Services](https://www.library.illinois.edu/rds/)
 
-[Illinois Data Bank](https://databank.illinois.edu)
+* [Illinois Data Bank](https://databank.illinois.edu)
 
-[Scholarly Commons](https://www.library.illinois.edu/sc/)
+* [Scholarly Commons](https://www.library.illinois.edu/sc/)
 
-[Strategic Framework](https://www.library.illinois.edu/geninfo/libraryinit/strategic-framework-2019/)
+* [Strategic Framework](https://www.library.illinois.edu/geninfo/libraryinit/strategic-framework-2019/)
 
-[Org Chart](https://www.library.illinois.edu/staff/administration/orgchart/)
+* [Org Chart](https://www.library.illinois.edu/staff/administration/orgchart/)
 
-[Staff Directory](https://www.library.illinois.edu/geninfo/staff-directory/)
+* [Staff Directory](https://www.library.illinois.edu/geninfo/staff-directory/)
 
-[Unit Directory](https://www.library.illinois.edu/geninfo/unit-directory/)
+* [Unit Directory](https://www.library.illinois.edu/geninfo/unit-directory/)
 
-[Subject Specialists](https://www.library.illinois.edu/geninfo/subject-specialists)
+* [Subject Specialists](https://www.library.illinois.edu/geninfo/subject-specialists)
 
-[Diversity](https://www.library.illinois.edu/geninfo/diversity/)
+* [Diversity](https://www.library.illinois.edu/geninfo/diversity/)
 
 ## [Indiana]
 
-[Data Services](https://libraries.indiana.edu/data-services)
+* [Data Services](https://libraries.indiana.edu/data-services)
 
-[Scholars' Commons](https://libraries.indiana.edu/scholars-commons)
+* [Scholars' Commons](https://libraries.indiana.edu/scholars-commons)
 
-[Strategic Plan](http://libraries.indiana.edu/strategicplan)
+* [Strategic Plan](http://libraries.indiana.edu/strategicplan)
 
-[Staff Directory](https://libraries.indiana.edu/staff)
+* [Staff Directory](https://libraries.indiana.edu/staff)
 
-[Subject Specialists](https://libraries.indiana.edu/specialists)
+* [Subject Specialists](https://libraries.indiana.edu/specialists)
 
-[Diversity](https://libraries.indiana.edu/libraries-diversity-resources)
+* [Diversity](https://libraries.indiana.edu/libraries-diversity-resources)
 
 ## [Iowa](https://www.lib.uiowa.edu)
 
-[Research Data](https://www.lib.uiowa.edu/data/)
+* [Research Data](https://www.lib.uiowa.edu/data/)
 
-[Strategic Plan](http://www.lib.uiowa.edu/about/strategic-plan-2020-2024/)
+* [Strategic Plan](http://www.lib.uiowa.edu/about/strategic-plan-2020-2024/)
 
-[Directory](https://www.lib.uiowa.edu/people/)
+* [Directory](https://www.lib.uiowa.edu/people/)
 
-[Subject Specialists](https://www.lib.uiowa.edu/people/find-your-librarian/)
+* [Subject Specialists](https://www.lib.uiowa.edu/people/find-your-librarian/)
 
-[Diversity](https://www.lib.uiowa.edu/about/diversity-equity-inclusion/)
+* [Diversity](https://www.lib.uiowa.edu/about/diversity-equity-inclusion/)
 
 ## [Maryland](https://www.lib.umd.edu)
 
-[Research Commons](https://www.lib.umd.edu/rc) - includes data services
+* [Research Commons](https://www.lib.umd.edu/rc) - includes data services
 
-[Strategy Map](https://www.lib.umd.edu/about/deans-office/strategy-map)
+* [Strategy Map](https://www.lib.umd.edu/about/deans-office/strategy-map)
 
-[Org Chart](https://www.lib.umd.edu/binaries/content/assets/public/about/libraries-org-chart_admin_aug2021.pdf)
+* [Org Chart](https://www.lib.umd.edu/binaries/content/assets/public/about/libraries-org-chart_admin_aug2021.pdf)
 
-[Directory](https://www.lib.umd.edu/directory)
+* [Directory](https://www.lib.umd.edu/directory)
 
-[Subject Specialists](https://www.lib.umd.edu/directory/specialists/librarian)
+* [Subject Specialists](https://www.lib.umd.edu/directory/specialists/librarian)
 
-[Diversity](https://www.lib.umd.edu/about/diversity/home)
+* [Diversity](https://www.lib.umd.edu/about/diversity/home)
 
 ## [Michigan]
 
-[Data Services](https://lib.umich.edu/research-and-scholarship/data-services)
+* [Data Services](https://lib.umich.edu/research-and-scholarship/data-services)
 
-[Deep Blue Data](https://deepblue.lib.umich.edu/data)
+* [Deep Blue Data](https://deepblue.lib.umich.edu/data)
 
-[Strategic Directions and Objectives](https://lib.umich.edu/about-us/about-library/strategic-directions-and-objectives)
+* [Strategic Directions and Objectives](https://lib.umich.edu/about-us/about-library/strategic-directions-and-objectives)
 
-[Org Charts](https://lib.umich.edu/about-us/our-divisions-and-departments) -- can be found under each division here
+* [Org Charts](https://lib.umich.edu/about-us/our-divisions-and-departments) -- can be found under each division here
 
-[Directory](https://lib.umich.edu/about-us/staff-directory)
+* [Directory](https://lib.umich.edu/about-us/staff-directory)
 
-[Subject Specialists](https://lib.umich.edu/research-and-scholarship/help-research/find-specialist)
+* [Subject Specialists](https://lib.umich.edu/research-and-scholarship/help-research/find-specialist)
 
-[Diversity](https://lib.umich.edu/about-us/about-library/diversity-equity-inclusion-and-accessibility)
+* [Diversity](https://lib.umich.edu/about-us/about-library/diversity-equity-inclusion-and-accessibility)
 
 ## Michigan State
 
-* [Research Data Management](https://lib.msu.edu/rdmg/)
+[Research Data Management](https://lib.msu.edu/rdmg/)
 
 * [Digital Scholarship Lab](https://lib.msu.edu/dslab/)
 
