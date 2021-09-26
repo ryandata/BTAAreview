@@ -79,22 +79,16 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 ## Michigan State
 
-[Research Data Management](https://lib.msu.edu/rdmg/)
-
-[Digital Scholarship Lab](https://lib.msu.edu/dslab/)
-
-[Strategic Plan](https://lib.msu.edu/strategic-plan)
-
-[Org Chart](https://lib.msu.edu/orgchart/)
-
-[Directory](https://lib.msu.edu/contact/libstaff)
-
-[Subject Specialists](https://lib.msu.edu/contact/subjectlibrarian/)
-
-[Diversity Advisory Committee](https://lib.msu.edu/about/diversity-committee/) -- committee exists, but no public-facing statement on site
+*[Research Data Management](https://lib.msu.edu/rdmg/)
+*[Digital Scholarship Lab](https://lib.msu.edu/dslab/)
+*[Strategic Plan](https://lib.msu.edu/strategic-plan)
+*[Org Chart](https://lib.msu.edu/orgchart/)
+*[Directory](https://lib.msu.edu/contact/libstaff)
+*[Subject Specialists](https://lib.msu.edu/contact/subjectlibrarian/)
+*[Diversity Advisory Committee](https://lib.msu.edu/about/diversity-committee/) -- committee exists, but no public-facing statement on site
 
 ## Minnesota
-[Research Data]/
+[Research Data]
 [DRUM]
 [Strategic Plan]
 [Org Chart]
