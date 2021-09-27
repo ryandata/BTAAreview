@@ -93,30 +93,37 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 * [Diversity Advisory Committee](https://lib.msu.edu/about/diversity-committee/) -- committee exists, but no public-facing statement on site
 
-## Minnesota
-[Research Data]
-[DRUM]
-[Strategic Plan]
-[Org Chart]
-[Directory]
-[Subject Specialists]
-[Diversity]()
+## [Minnesota](https://lib.umn.edu)
+
+* [Research Data Services](https://www.lib.umn.edu/services/data)
+
+* [DRUM](https://conservancy.umn.edu/pages/drum/)
+
+* [Strategic Plan](https://www.lib.umn.edu/about/strategic-plan)
+
+* [Org Chart] - none found
+
+* [Staff Directory](https://www.lib.umn.edu/about/staff)
+
+* [Subject Specialists](https://www.lib.umn.edu/about/staff/subject-librarians)
+
+* [Diversity](https://www.lib.umn.edu/about/inclusion)
 
 ## [Nebraska](https://libraries.unl.edu)
 
-[Data Repository](https://dataregistry.unl.edu) (UNLDR)
+* [Data Repository](https://dataregistry.unl.edu) (UNLDR)
 
-[Data Management](https://libraries.unl.edu/research-data-management)
+* [Data Management](https://libraries.unl.edu/research-data-management)
 
-[Strategic Plan](https://libraries.unl.edu/libraries-strategic-plan)
+* [Strategic Plan](https://libraries.unl.edu/libraries-strategic-plan)
 
-[Org Chart](https://libraries.unl.edu/organizational-chart)
+* [Org Chart](https://libraries.unl.edu/organizational-chart)
 
-[Faculty Directory](https://libraries.unl.edu/faculty-staff-directory)
+* [Faculty Directory](https://libraries.unl.edu/faculty-staff-directory)
 
-[Subject Specialists](https://unl.libguides.com/find_your_librarian)
+* [Subject Specialists](https://unl.libguides.com/find_your_librarian)
 
-[Diversity](https://libraries.unl.edu/diversity)
+* [Diversity](https://libraries.unl.edu/diversity)
 
 ## [Northwestern](https://www.library.northwestern.edu)
 [Research Data]
@@ -128,31 +135,31 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 ## [The Ohio State University](https://library.osu.edu)
 
-[Research Data Management](https://library.osu.edu/researchcommons/help/managing-data)
+* [Research Data Management](https://library.osu.edu/researchcommons/help/managing-data)
 
-[Research Commons](https://library.osu.edu/researchcommons/)
+* [Research Commons](https://library.osu.edu/researchcommons/)
 
-[Org Chart](https://library.osu.edu/sites/default/files/2021-09/OSULOrgChart_full.pdf)
+* [Org Chart](https://library.osu.edu/sites/default/files/2021-09/OSULOrgChart_full.pdf)
 
-[Directory](https://library.osu.edu/directory)
+* [Directory](https://library.osu.edu/directory)
 
-[Subject Librarians](https://library.osu.edu/subject-librarians)
+* [Subject Librarians](https://library.osu.edu/subject-librarians)
 
-[Diversity](https://library.osu.edu/equity-diversity-inclusion)
+* [Diversity](https://library.osu.edu/equity-diversity-inclusion)
 
 ## [Penn State](https://libraries.psu.edu/)
 
-[Research Data Services](https://libraries.psu.edu/research/research-data-services)
+* [Research Data Services](https://libraries.psu.edu/research/research-data-services)
 
-[Strategic Plan](https://libraries.psu.edu/about/university-libraries-strategic-plan)
+* [Strategic Plan](https://libraries.psu.edu/about/university-libraries-strategic-plan)
 
-[Org Chart](https://libraries.psu.edu/sites/default/files/2021/03/01/org-chart_030121.pdf)
+* [Org Chart](https://libraries.psu.edu/sites/default/files/2021/03/01/org-chart_030121.pdf)
 
-[Directory](https://libraries.psu.edu/directory/)
+* [Directory](https://libraries.psu.edu/directory/)
 
-[Libraries Departments](https://libraries.psu.edu/about/libraries)
+* [Libraries Departments](https://libraries.psu.edu/about/libraries)
 
-[Diversity](https://libraries.psu.edu/about/diversity)
+* [Diversity](https://libraries.psu.edu/about/diversity)
 
 ## Purdue
 
