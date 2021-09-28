@@ -184,15 +184,15 @@ For equivalence to "view from outside" see:
 
 ## [Wisconsin](https://www.library.wisc.edu)
 
-[Research Data Services](https://researchdata.wisc.edu)
+* [Research Data Services](https://researchdata.wisc.edu)
 
-[Strategic Plan](https://www.library.wisc.edu/about/administration/strategic-plan/)
+* [Strategic Plan](https://www.library.wisc.edu/about/administration/strategic-plan/)
 
-[Subject librarians list](https://www.library.wisc.edu/research-support/subject-librarians/)
+* [Subject librarians list](https://www.library.wisc.edu/research-support/subject-librarians/)
 
-[Staff by location](https://www.library.wisc.edu/about/directory/staff-by-location/#0) is the best way to zoom on specific staff in each area.
+* [Staff by location](https://www.library.wisc.edu/about/directory/staff-by-location/#0) is the best way to zoom on specific staff in each area.
 
-[library location list](https://www.library.wisc.edu/locations/#)
+* [library location list](https://www.library.wisc.edu/locations/#)
 
 See, for example:
 * AMP for Astronomy, Math, Physics
@@ -204,5 +204,5 @@ See, for example:
 
 Note there are some exceptions - Chemistry Librarian is based in the Chemistry Building, not a library
 
-[Diversity](https://www.library.wisc.edu/diversity/)
+* [Diversity](https://www.library.wisc.edu/diversity/)
 
