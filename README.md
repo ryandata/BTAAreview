@@ -131,7 +131,7 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 [Org Chart]
 [Directory]
 [Subject Specialists]
-[Diversity]()
+[Diversity]
 
 ## [The Ohio State University](https://library.osu.edu)
 
@@ -165,28 +165,42 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 The Purdue main website lists "Inclusion" as a top-level header right up there with "Academics", "Admissions", and "Athletics".  Sad to see Rutgers lagging behind Purdue in this area.
 
-[Directory](https://www.lib.purdue.edu/directory)
+* [Research Data](https://purr.purdue.edu)
 
-Purdue lists Librarians by their professorial rank, without area-specific titles.  So classification is by their liaison/expertise identified in their profiles.  Purdue is not comparable to Rutgers for many reasons.
+* [Strategic Plan](https://www.lib.purdue.edu/about/strategic_plans)
 
-PURR
+* [Org Chart](https://www.lib.purdue.edu/sites/default/files/admin/OrgChart.pdf)
 
-[Diversity]()
+* [Directory](https://www.lib.purdue.edu/directory)
+
+* [Subject Specialists](https://www.lib.purdue.edu/help/askalib/librarians)
+
+* [Diversity](https://guides.lib.purdue.edu/diversityresources)
 
 
 ## [Rutgers](https://libraries.rutgers.edu)
 
 For equivalence to "view from outside" see:
 
-[Subject Specialist link](https://www.libraries.rutgers.edu/new-brunswick/teaching-research-help/subject-help-new-brunswick)
+* [Research Data](https://www.libraries.rutgers.edu/new-brunswick/teaching-research-help/research-data-services)
 
-[Directory link](https://www.libraries.rutgers.edu/directory)
+* [Strategic Plan](https://www.libraries.rutgers.edu/new-brunswick/about-us) - full strategic plan is not here
+
+* [Org Chart]() - not found
+
+* [Directory](https://www.libraries.rutgers.edu/directory)
+
+* [Subject Specialists](https://www.libraries.rutgers.edu/new-brunswick/teaching-research-help/subject-help-new-brunswick)
+
+* [Diversity](https://www.libraries.rutgers.edu/about-rutgers-university-libraries/diversity-equity-and-inclusion)
 
 ## [Wisconsin](https://www.library.wisc.edu)
 
 * [Research Data Services](https://researchdata.wisc.edu)
 
 * [Strategic Plan](https://www.library.wisc.edu/about/administration/strategic-plan/)
+
+* [Org Chart] - not found
 
 * [Subject librarians list](https://www.library.wisc.edu/research-support/subject-librarians/)
 
