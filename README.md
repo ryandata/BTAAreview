@@ -79,7 +79,7 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 ## [Michigan State](https://lib.msu.edu)
 
-[Research Data Management](https://lib.msu.edu/rdmg/)
+* [Research Data Management](https://lib.msu.edu/rdmg/)
 
 * [Digital Scholarship Lab](https://lib.msu.edu/dslab/)
 
