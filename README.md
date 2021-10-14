@@ -161,7 +161,7 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 * [Diversity](https://libraries.psu.edu/about/diversity)
 
-## Purdue
+## [Purdue](https://www.purdue.edu)
 
 The Purdue main website lists "Inclusion" as a top-level header right up there with "Academics", "Admissions", and "Athletics".  Sad to see Rutgers lagging behind Purdue in this area.
 
