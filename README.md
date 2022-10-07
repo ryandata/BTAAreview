@@ -53,7 +53,7 @@ Gathering links to the Libraries organizational structure at BTAA universities.
 
 * [Strategy Map](https://www.lib.umd.edu/about/deans-office/strategy-map)
 
-* [Org Chart](https://www.lib.umd.edu/binaries/content/assets/public/about/libraries-org-chart_admin_aug2021.pdf)
+* [Org Chart](https://www.lib.umd.edu/sites/default/files/2022-09/umd-libraries_organization-chart_2022-09-16.pdf)
 
 * [Directory](https://www.lib.umd.edu/directory)
 
