@@ -6,13 +6,14 @@ For each institution, I looked for individuals providing Public Data Services (*
 
 ### Illinois
 
-**3** in PDS, **0 or 14** in RDM (none in Libraries, but another unit of 14 provides similar services)
+### **3** in PDS
+### **0 or 14** in RDM (none in Libraries, but another unit of 14 provides similar services)
 
 Has specialized data repository, [Illinois Data Bank](https://databank.illinois.edu/). 576 items, steadily increasing by year (over 100/yr now)
 
 Has an [Open Scholarship](https://openscholarship.indiana.edu/) portal including Open Data section. 
 
-Formally organized [Research Data Service] centered on Research Data Management with 3 staff and one graduate assistant.
+Formally organized [Research Data Service](https://researchdataservice.illinois.edu/) centered on Research Data Management with 3 staff and one graduate assistant.
 
 - Director, Research Data Service
 - Associate Director, Research Data Service
@@ -27,7 +28,8 @@ Other workshops and assistance with finding data and consultations are run out o
 
 ### Indiana
 
-**3** in PDS, **1** in RDM
+### **3** in PDS
+### **1** in RDM
 
 Has general repository, [IUScholarWorks](https://scholarworks.iu.edu/dspace/) that accepts research data
 
@@ -46,7 +48,8 @@ Indiana also has a world class [Area Studies](https://libraries.indiana.edu/area
 
 ### Iowa
 
-**2** in PDS, **2** in RDM
+### **2** in PDS
+### **2** in RDM
 
 Has general repository, [Iowa Research Online](https://research.its.uiowa.edu/) that accepts research data (95 items only)
 
@@ -63,7 +66,8 @@ There are Digital Project Librarians and a Scholarly Communications Librarian, b
 
 ### Maryland
 
-**1** in PDS, **0** in RDM
+### **1** in PDS
+### **0** in RDM
 
 Has general repository, [DRUM](http://drum.lib.umd.edu/). Yes, it is the same name as Minnesota, who had one first.  Takes data up to 15GB with file size up to 2GB. Their "equitable access" policy passed in 2022.
 
@@ -95,7 +99,8 @@ There is a dedicate "Patents and Trademarks Librarian" without other responsibil
 
 ### Michigan
 
-**7** providing RDM, **5** providing PDS.
+### **5** providing PDS
+### **7** providing RDM
 
 Has repository ([Deep Blue](https://deepblue.lib.umich.edu/data))
 
@@ -124,7 +129,8 @@ Supporting "Statistics and Data Sets" and "GIS"
 
 ### Michigan State
 
-**3** providing RDM, **7** providing PDS.
+### **7** providing PDS
+### **3** providing RDM
 
 3 listed as advisors for "Research Data Management Guidance"
 
@@ -146,7 +152,8 @@ In addition to the above, these deliver PDS:
 
 ### Minnesota
 
-**4** providing RDM, **3** providing PDS.
+### **3** providing PDS
+### **4** providing RDM
 
 Has a data repository, [DRUM](https://conservancy.umn.edu/pages/drum/)
 
@@ -170,7 +177,8 @@ not counting
 
 ### Nebraska
 
-**1** providing RDM, **1** providing PDS.
+### **1** providing PDS
+### **1** providing RDM
 
 Has a data repository, [UNLDR](https://dataregistry.unl.edu/)
 
@@ -185,7 +193,8 @@ Rather opaque services, a lot of them hiding behind generic email addresses, sug
 
 ### An Ohio State University
 
-**1** providing RDM, **8** providing PDS.
+### **8** providing PDS
+### **1** providing RDM
 
 Institutional repository, [Knowledge Bank](https://library.osu.edu/kb) accepts data (1 GB or less, see [recommended procedures for data](https://library.osu.edu/kb/recommended-procedures-for-data)
 
@@ -210,7 +219,8 @@ and a linkage to their version of OARC (Ohio Supercomputer Center)
 
 ### Penn State
 
-**2** providing RDM, **7** providing PDS.
+### **7** providing PDS
+### **2** providing RDM
 
 (those counts do not include part-time or open publishing. Although it is not clearly delineated, I am counting the unit head and the STEM research data librarian on the RDM side of the ledger)
 
@@ -245,7 +255,8 @@ in other areas...
 
 ### Purdue
 
-**4** providing RDM, **2** providing PDS.
+### **2** providing PDS
+### **4** providing RDM
 
 Has repository ([PURR](https://purr.purdue.edu))
 
@@ -268,7 +279,8 @@ Interestingly, even [PURR](https://purr.purdue.edu) service is highlighting its 
 
 ### Wisconsin
 
-**9** providing RDM, **8** providing PDS.
+### **8** providing PDS
+### **9** providing RDM
 
 Has an Institutional repository, [MINDS@UW](https://www.library.wisc.edu/research-support/minds/) accepts data, also offer Dryad.
 
