@@ -260,16 +260,17 @@ in other areas...
 
 Has repository ([PURR](https://purr.purdue.edu))
 
-Research Data has four staff in the department.
+Research Data has four staff in the department:
 
 - Assistant Professor
 - Data Curator
 - Digital Library Software Developer
 - Research Data System Manager
 
-One Assistant Professor for "Data Services" in addition to Digital Humanities and other subject areas.
+In PDS:
 
-One Associate Professor and GIS Specialist
+- Assistant Professor for "Data Services" in addition to Digital Humanities and other subject areas.
+- Associate Professor and GIS Specialist
 
 Associate Professor and Engineering Information Specialist is responsible for data management libguide for undergraduates.  Not counting this towards staffing numbers above since it may not be a major responsiblity.
 
