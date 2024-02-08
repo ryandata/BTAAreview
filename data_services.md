@@ -228,7 +228,7 @@ and a linkage to their version of OARC (Ohio Supercomputer Center)
 
 Institutional repository, [ScholarSphere](https://scholarsphere.psu.edu/) accepts data.
 
-Both RDM and PDS served up out of [Research Informations and Publishing](https://libraries.psu.edu/about/departments/research-informatics-and-publishing) unit
+Both RDM and PDS served up out of [Research Informatics and Publishing](https://libraries.psu.edu/about/departments/research-informatics-and-publishing) unit
 
 "The Department of Research Informatics and Publishing enhances the technology-driven teaching and research capacity of the Penn State community. We partner with students, faculty, and staff to consult, provide training, and support projects in the areas of research data management, digital humanities, mapping, statistical analysis, and open publishing."
 

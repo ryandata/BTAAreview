@@ -49,7 +49,7 @@ Others include:
 
  - Michigan [Data Services](https://lib.umich.edu/research-and-scholarship/data-services)
  - Michigan State [Data Scholarship Lab](https://lib.msu.edu/dsl/)
- - Penn State [Research Informations and Publishing](https://libraries.psu.edu/about/departments/research-informatics-and-publishing)
+ - Penn State [Research Informatics and Publishing](https://libraries.psu.edu/about/departments/research-informatics-and-publishing)
 
 ### Discussion of Rutgers
 
