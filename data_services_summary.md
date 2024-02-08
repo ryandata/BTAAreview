@@ -1,7 +1,11 @@
-## Comparison of BTAA Data Services
-
-### 2024-02-08
-
+---
+title: "Comparison of BTAA Data Services"
+author: Ryan Womack
+date: 2024-02-08
+fontfamily: ebgaramond
+fontsize: 12pt
+geometry: margin=1in
+---
 ### Motivation
 
 This is a brief summary comparison of **Data Services** provided at the libraries of public BTAA institutions, based on the raw data collected and summarized [here](https://github.com/ryandata/BTAAreview/blob/main/data_services.md). The intention is to provide some benchmarking for Rutgers Data Services, where the public BTAAs are the most relevant peer group, being composed of similar large, research-intensive institutions that are also dependent on state-funding and seek to serve their state populations in addition to broader research and educational goals. The BTAA also seeks to collaborate around collections and other library initiatives. Northwestern, as a private BTAA, is excluded, as are USC and UCLA, which are new to Big Ten athletics. At this point it is unclear on how these new institutions will be integrated into the academic collaborations of the Big Ten.  Of the BTAA institutions included, Nebraska is substantially smaller in student population, faculty numbers, and research activity. However, the remaining institutions are relatively close matches to Rutgers across a number of dimensions.
