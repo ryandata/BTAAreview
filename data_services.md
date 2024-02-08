@@ -6,8 +6,8 @@ For each institution, I looked for individuals providing Public Data Services (*
 
 ### Illinois
 
-### **3** in PDS
-### **0 or 14** in RDM (none in Libraries, but another unit of 14 provides similar services)
+### **0 or 14** in PDS (none in Libraries, but another unit of 14 provides similar services)
+### **3** in RDM
 
 Has specialized data repository, [Illinois Data Bank](https://databank.illinois.edu/). 576 items, steadily increasing by year (over 100/yr now)
 
@@ -20,11 +20,11 @@ Formally organized [Research Data Service](https://researchdataservice.illinois.
 - Data Librarian
 - Graduate Assistant
 
-Public Data Services are run out of the [Scholarly and Media Commons]() which was the result of a merger between the Scholarly Commons and the Media Commons.  Their data-focused person retired recently, and some programs, like data purchase, seem to be in retreat.  There are 5 staff here, and 6 graduate assistants, but it appears most of them support technology not data.  Workshops are run from the space, but can be delivered by any campus group, not just libraries.  I would only list one person as having a definite role in public data support:
+Public Data Services are run out of the [Scholarly and Media Commons](https://www.library.illinois.edu/sc/) which was the result of a merger between the Scholarly Commons and the Media Commons.  Their data-focused person retired recently, and some programs, like data purchase, seem to be in retreat.  There are 5 staff here, and 6 graduate assistants, but it appears most of them support technology not data.  Workshops are run from the space, but can be delivered by any campus group, not just libraries.  I would only list one person as having a definite role in public data support:
 
 - Interim Manager, Scholarly Commons and Media Commons Coordinator
 
-Other workshops and assistance with finding data and consultations are run out of the [Center for Innovation in Teaching & Learning](https://citl.illinois.edu/citl-101/data-analytics/workshops), which has a Director of Data Analytics, and 13 [other staff](https://citl.illinois.edu/citl-101/data-analytics/meet-our-staff) from across the university covering stats packages, methodology, and sources (like their ICPSR OR),  but this is not under the Libraries, although they partner with Libraries to offer workshops and consultations in the Libraries.
+Other workshops and assistance with finding data and consultations are run out of the [Center for Innovation in Teaching & Learning](https://citl.illinois.edu/citl-101/data-analytics/workshops), which has a Director of Data Analytics, and 13 [other staff](https://citl.illinois.edu/citl-101/data-analytics/meet-our-staff) from across the university covering stats packages, methodology, and sources (like their ICPSR OR),  but this is not under the Libraries, although they partner with Libraries to offer workshops and consultations in the Libraries.  So despite having zero PDS staff in the Libraries, this data support is quite robust at Illinois.
 
 ### Indiana
 
